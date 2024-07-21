@@ -66,3 +66,13 @@ img{
  padding: 1rem;
  border-radius: 1rem;
 }
+
+@media (max-width: 425px){
+  img {
+    height: 117px;
+    width: 74px;
+  }
+  #msg {
+    font-size: 1rem;
+  }
+}
